@@ -1,0 +1,8 @@
+{
+	"id": "daoclaim",
+	"name": "DAO-Claim!",
+	"description": "Use the WithdrawDAO contract to try to reclaim your Ether",
+	"version": "1.0",
+	"author": "Ethcore",
+	"iconUrl": "title.png"
+}
