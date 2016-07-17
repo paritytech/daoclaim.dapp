@@ -1,7 +1,7 @@
 # daoclaim.dapp
 The compiled files for the DAOClaim dapp.
 
-To install to your Parity dapps path (`$HOME/.parity/dapps`) and run:
+To install, open a terminal and go to your Parity dapps path (`$HOME/.parity/dapps`) then run:
 
 ```
 git clone git@github.com:ethcore/daoclaim.dapp
